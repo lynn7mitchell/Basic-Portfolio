@@ -72,7 +72,7 @@ h2 {
     margin: 0 20px 20px 20px;
 }
 
-main img {
+main .home img {
     float: left;
     height: 35vh;
     padding-right: 10px;
@@ -95,6 +95,24 @@ input, textarea{
     color: #777777;
     margin-top: 5px;
     margin-bottom: 10px;  
+}
+.image-wrapper{
+    display: inline;
+    position: relative;
+    height: 100%;
+}
+.banner{
+    position: absolute;
+    top: 0;
+}
+.portfolio{
+    height: 750px;
+}
+.portfolio img{
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+    margin-right: 40px;
 }
 
 footer{
