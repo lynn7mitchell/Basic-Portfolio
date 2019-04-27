@@ -50,7 +50,10 @@ li {
     margin-left: 15px;
     color: #777777;
 }
-
+a{
+    color: #777777;
+    text-decoration: none;
+}
 main {
     background: #fff;
     margin: 0 auto;
@@ -72,7 +75,7 @@ h2 {
     margin: 0 20px 20px 20px;
 }
 
-main .home img {
+.home img {
     float: left;
     height: 35vh;
     padding-right: 10px;
@@ -95,6 +98,12 @@ input, textarea{
     color: #777777;
     margin-top: 5px;
     margin-bottom: 10px;  
+}
+button{
+    background-color: #4AAAA5;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
 }
 .img-container{
     position: relative;
