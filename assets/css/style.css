@@ -85,6 +85,18 @@ main p{
     margin-right: 20px;
     margin-left: 20px;
 }
+form{
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #777777;
+}
+input, textarea{
+    width: 100%; 
+    color: #777777;
+    margin-top: 5px;
+    margin-bottom: 10px;  
+}
+
 footer{
     background: #666666;
     width: 100%;
